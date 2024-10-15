@@ -16,7 +16,6 @@ class SumCalculator extends Thread {
 		// Initialize the instance variables start and end
 		this.start = start;
 		this.end = end;
-
 		// Initialize the sum to 0
 		this.sum = 0;
 
